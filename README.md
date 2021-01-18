@@ -1,12 +1,12 @@
-# js-kata-starter-pbt
+# monoids-with-pbt
 
-Starter project for kata with Property-Based Testing (Node, TypeScript, Jest, JSVerify)
+Cf. [Monoids with Property-Based Testing](https://github.com/cyriux/Monoidz-kata/blob/master/MonoidsWithPBT.md)
 
 ## Installation
 
 ```text
-git clone https://github.com/mathieueveillard/js-kata-starter-pbt.git
-cd js-kata-starter-pbt
+git clone https://github.com/mathieueveillard/monoids-with-pbt.git
+cd monoids-with-pbt
 npm install
 ```
 

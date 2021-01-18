@@ -1,5 +1,5 @@
 {
-  "name": "js-kata-starter-pbt",
+  "name": "monoids-with-pbt",
   "version": "1.0.0",
   "description": "Starter project for kata with Property-Based Testing (Node, TypeScript, Jest, JSVerify)",
   "main": "index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mathieueveillard/js-kata-starter-pbt.git"
+    "url": "git+https://github.com/mathieueveillard/monoids-with-pbt.git"
   },
   "keywords": [
     "starter",
@@ -36,7 +36,7 @@
   "author": "Mathieu Eveillard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mathieueveillard/js-kata-starter-pbt/issues"
+    "url": "https://github.com/mathieueveillard/monoids-with-pbt/issues"
   },
-  "homepage": "https://github.com/mathieueveillard/js-kata-starter-pbt#readme"
+  "homepage": "https://github.com/mathieueveillard/monoids-with-pbt#readme"
 }
